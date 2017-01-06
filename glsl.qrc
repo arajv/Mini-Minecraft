@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>glsl/lambert.frag.glsl</file>
+        <file>glsl/lambert.vert.glsl</file>
+        <file>glsl/flat.frag.glsl</file>
+        <file>glsl/flat.vert.glsl</file>
+        <file>glsl/texture.frag.glsl</file>
+        <file>glsl/texture.vert.glsl</file>
+        <file>glsl/skyboxtexture.frag.glsl</file>
+        <file>glsl/skyboxtexture.vert.glsl</file>
+    </qresource>
+</RCC>
